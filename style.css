@@ -17,4 +17,10 @@ h1, h2 {
 
 a {
     text-decoration: none;
+    color: #b14773;
+}
+
+a:hover {
+    font-weight: 600;
+    color: #4e3852;
 }
